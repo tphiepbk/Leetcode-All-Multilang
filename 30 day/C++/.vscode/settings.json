@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "map": "cpp",
+        "type_traits": "cpp",
+        "xmemory": "cpp",
+        "xtree": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp"
+    }
+}
