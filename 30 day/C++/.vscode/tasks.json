@@ -9,7 +9,7 @@
                 "-g",
                 "-o",
                 "leetcode",
-                "week3-ProductExceptItself.cpp"
+                "week3-LeftMostColAtLeastOne.cpp"
             ],
             "group": {
                 "kind": "build",
